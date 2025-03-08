@@ -1,3 +1,10 @@
+/db
+/logs
+/metadata
+/target
+
 .env
-target
-*.log
+.env.example
+
+test*.*
+/.idea
