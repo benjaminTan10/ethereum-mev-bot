@@ -1,5 +1,5 @@
 
-# Hades - BSC MEV Bot
+# BSC MEV Bot
 Hades is a sophisticated MEV (Maximal Extractable Value) bot designed for the Binance Smart Chain (BSC). It focuses on capturing value through various strategies including arbitrage, sandwiching, and backrunning.
 
 ## Features
